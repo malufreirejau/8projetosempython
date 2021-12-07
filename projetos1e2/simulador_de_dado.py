@@ -8,7 +8,7 @@ class SimuladorDeDado:
         self.mensagem = 'Você gostaria de gerar um novo valor para o dado?'
 
         self.layout = [
-            [sg.Text('Jogar o dado?')],
+            [sg.Text('Jogar o dado?', size=(40,0))],
             [sg.Button('sim'), sg.Button('não')]
         ]
       
