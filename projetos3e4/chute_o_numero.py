@@ -40,6 +40,7 @@ class ChuteONumero:
 
     def GerarNumeroAleatorio(self):
         self.valor_aleatorio =  random.randint(self.valor_minimo,self.valor_maximo)
+        
 
 chute = ChuteONumero()
 chute.Iniciar()
