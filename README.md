@@ -26,7 +26,7 @@ GUI do decida por mim
 
 #### Projeto 7
 
-Jogo de aventura. Objetivo: jogo de decisões onde terei que criar vários finais diferentes baseados nas respostas.
+Jogo da Força. Objetivo: descobrir se sou jedi ou sith.
 
 #### Projeto 8
 
